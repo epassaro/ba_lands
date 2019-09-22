@@ -1,8 +1,6 @@
 # ba_lands
 2014-2018 Buenos Aires land prices dataset (curated)
 
-Made with open data provided by _Buenos Aires Data_ by @epassaro
-
 Columns names are self explanatory:
 
 - **LAT:** _Latitude_
@@ -12,5 +10,6 @@ Columns names are self explanatory:
 - **NEIGHBORHOOD**
 - **COMMUNE**
 
-
 Includes _GeoJSON_ data for neighborhoods and communes.
+
+Made with open data provided by _Buenos Aires Data_ by @epassaro
